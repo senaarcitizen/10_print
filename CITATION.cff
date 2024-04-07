@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Blisset
+    given-names: Luther
+    orcid: https://orcid.org/1234-5678-9101-1121
+title: "Attempts to perform 10 PRINT command for Commodore64 on a modern computer"
+version: 2.0.4
+identifiers:
+  - type: url
+    value: https://github.com/senaarcitizen/10_print
+date-released: 2024-04-07
