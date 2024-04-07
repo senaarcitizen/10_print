@@ -1,0 +1,8 @@
+while ($true) {
+    $randomNumber = Get-Random -Minimum 0 -Maximum 2
+    if ($randomNumber -eq 1) {
+        Write-Host -NoNewline "/"
+    } else {
+        Write-Host -NoNewline "\"
+    }
+}
